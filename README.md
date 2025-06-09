@@ -33,7 +33,7 @@ Durante o projeto foram abordados conceitos fundamentais como:
 
 ## 🌐 Acesse o projeto
 
-👉 [Clique aqui para jogar online](https://[seu-link.vercel.app](https://jogo-brown-psi.vercel.app/))
+👉 [Clique aqui para jogar online](https://[jogo-brown-psi.vercel.app/])
 
 ---
 
