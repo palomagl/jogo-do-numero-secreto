@@ -92,7 +92,7 @@ body::before {
 
 h1 {
     font-family: 'Chakra Petch', sans-serif;
-    font-size: 64px;
+    font-size: clamp(32px, 6vw, 74px);
     padding-bottom: 3rem;
 }
 
